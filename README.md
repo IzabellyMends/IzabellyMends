@@ -9,4 +9,4 @@ IzabellyMends/IzabellyMends is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 # 𝘁𝗲𝗰𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 💻
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![GIT](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)![GITHUB](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)
+ ![GIT](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)![GITHUB](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)
